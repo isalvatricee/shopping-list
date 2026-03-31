@@ -1,3 +1,4 @@
+
 Bathing soap
 Detergent
 Vim
@@ -7,4 +8,21 @@ Mop
 Bucket
 Shower gel
 Shampoo
+Meat
+Rice
+Cooking oil
+Irish potatoes
+Mayonnaise
+Ketchup
+Vinegar
+Carrots
+Black pepper
+Chilli
+Biscuits
+Pringles
+Oreo
+Winnaz 
+Crisps
+Chocolate
+Samosa
 
